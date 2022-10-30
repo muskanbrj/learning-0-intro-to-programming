@@ -10,3 +10,8 @@
 1. Fifth Generation (Present(2022) and beyond)
 
 Source: [Click Here](https://www.geeksforgeeks.org/generations-of-computers-computer-fundamentals/)
+
+## Parts of a Computer
+
+- Software
+- Hardware
