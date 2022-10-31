@@ -71,6 +71,8 @@ See Also:
 - some languages/ technologies use both compiler and interpreter
 
 ### Code Execution:
-- Assembler:  ![](../images/converters/assembler.png)
-- Compiler:  ![](../images/converters/compiler.png)
-- Interpreter:  ![](../images/converters/interpreter.png)
+| Converter | Source code to target code flow |
+| - | - |
+| Assembler | ![](../images/converters/assembler.png) |
+| Compiler | ![](../images/converters/compiler.png) |
+| Interpreter | ![](../images/converters/interpreter.png) |

@@ -20,3 +20,9 @@ Source: [Click Here](https://www.geeksforgeeks.org/generations-of-computers-comp
 
 - Types of languages
 - converters
+
+## Computer Memory
+
+- What is Memory?
+- Memory units
+- Memory devices
