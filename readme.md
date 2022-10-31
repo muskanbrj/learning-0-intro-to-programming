@@ -15,3 +15,8 @@ Source: [Click Here](https://www.geeksforgeeks.org/generations-of-computers-comp
 
 - Software
 - Hardware
+
+## Software Basics
+
+- Types of languages
+- converters
