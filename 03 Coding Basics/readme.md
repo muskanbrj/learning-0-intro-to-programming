@@ -77,12 +77,14 @@ See Also:
 | Compiler | ![](../images/converters/compiler.png) |
 | Interpreter | ![](../images/converters/interpreter.png) |
 
-## Why so many languages (HLLs)?
+## Why so many programming languages?
 
 There are always some shortcomings in a language. New languages tend to reduce the coding effort, make code more robust, improve code style, add features and supports, etc.
 
 Example of languages:  
 Binary language, Assembly, B, C, C++, Java, Python, Golang, Javascript, etc.
+
+Also see: [Parts of languages](./Parts%20of%20Language.md)
 
 ### Which is the best language to use?
 
@@ -114,3 +116,43 @@ etc
 | Platform(s) | Platform in computer refers to:<ul><li> Hardware <li>Operating system <li>Softwares </ul>etc the program depends upon to run |
 | Databases | These are the places where we store the app data, user data, management data, etc |
 | Test suites | These are required for checking if app is working fine or not |
+
+## Technologies/ Streams/ Careers
+
+- A technology is a path of various paths you can take as a programmer/ coder.
+- Some paths are closely related, while some are very distant and different from others. Each stream needs certain knowledge requirements, technologies, etc.
+
+### Example:
+- Artificial Intelligence and Machine Learning (AL & ML)
+- Automation
+- Block Chain
+- Cyber Security
+- Voice Technology
+- Virtual Reality
+- IOT
+- Biometrics
+- Robotics
+- Big Data Analytics
+- Computer Network
+- Cloud Computing
+- Dev-ops
+
+## Stack
+
+A stack is a set of languages, tools, frameworks, programs that are connected together/ used as layers upon one another to fulfil the goal.
+
+### Types of stacks
+| Stack type | Description |
+| - | - |
+| Front-end | User Interface <br> Navigation among screens|
+| Back-end | Database handlers |
+| Full-stack | Front-end + back-end + dev-ops |
+
+### Example of full-stacks:
+| Stack name | Description |
+| - | - |
+| MERN Stack | MongoDb <br>Express.js <br>React.js <br>Node.js |
+| MEAN Stack | MongoDb <br>Express.js <br>Angular.js <br>Node.js |
+| LAMP Stack |  Linux <br>Apache <br>MySQL <br>PHP |
+| Django Stack |  Python <br>Django <br>MySQL |
+

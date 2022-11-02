@@ -20,7 +20,10 @@ Source: [Click Here](https://www.geeksforgeeks.org/generations-of-computers-comp
 
 - Why write programs if they already made?
 - Types of languages
+- parts of language
 - converters
+- platforms, frameworks
+- technologies, stacks
 
 ## Computer Memory
 
