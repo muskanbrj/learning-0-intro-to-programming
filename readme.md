@@ -26,3 +26,9 @@ Source: [Click Here](https://www.geeksforgeeks.org/generations-of-computers-comp
 - What is Memory?
 - Memory units
 - Memory devices
+
+## Number system
+
+- what is number?
+- what is number system?
+- conversion from one number system to another
