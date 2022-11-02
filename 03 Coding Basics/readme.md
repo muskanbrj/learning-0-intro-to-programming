@@ -1,4 +1,4 @@
-# Software Basics
+# Coding Basics
 
 ## Why write programs if they already made?
 
@@ -76,3 +76,41 @@ See Also:
 | Assembler | ![](../images/converters/assembler.png) |
 | Compiler | ![](../images/converters/compiler.png) |
 | Interpreter | ![](../images/converters/interpreter.png) |
+
+## Why so many languages (HLLs)?
+
+There are always some shortcomings in a language. New languages tend to reduce the coding effort, make code more robust, improve code style, add features and supports, etc.
+
+Example of languages:  
+Binary language, Assembly, B, C, C++, Java, Python, Golang, Javascript, etc.
+
+### Which is the best language to use?
+
+- Every language has some advantages and disadvantages.
+- Some languages are easy to write, but slow.
+- Some are difficult and lengthy, but fast.
+- Some don't support certain requirements. Such as websites are not so machine dependent.
+
+If there would have a best language for all purposes, other languages would have cease to exist.
+
+### How to choose which language to use?
+
+- If client/ employer/ partners specifically asks for certain language
+- Requirements fulfilled by that language
+- Popularity of the language
+- Community of the language
+- Ease of writing code
+- Speed of execution
+- Target users  
+etc
+
+
+## Basic Components of a Software (Application/ App)
+
+| Component | Description |
+| - | - |
+| Language(s) | The core languages in which the code is written |
+| Framework(s) | <ul><li>A framework is a piece of code gives tools to a language to fulfil the task. <li>It contains some extra functions, classes, etc to perform certain work. <li>Frameworks are optional in a project. <li>You can write what u need, if u have sufficient knowledge. <li>Frameworks are written by coders like us who then made their code public for others to use. <li>Just like languages, people try to improve existing frameworks, resulting in new frameworks.</ul> Ex: Spring, Django, Flask, Node.js, etc |
+| Platform(s) | Platform in computer refers to:<ul><li> Hardware <li>Operating system <li>Softwares </ul>etc the program depends upon to run |
+| Databases | These are the places where we store the app data, user data, management data, etc |
+| Test suites | These are required for checking if app is working fine or not |

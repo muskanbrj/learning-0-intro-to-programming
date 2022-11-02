@@ -16,8 +16,9 @@ Source: [Click Here](https://www.geeksforgeeks.org/generations-of-computers-comp
 - Software
 - Hardware
 
-## Software Basics
+## Coding Basics
 
+- Why write programs if they already made?
 - Types of languages
 - converters
 
