@@ -1,10 +1,57 @@
-## Examples - Simple
+# Conditional
+
+## Syntax
+
+### if-end if
+```
+if <condition> then
+[statements]
+end if
+```
+
+### if-else-end if
+```
+if <condition> then
+[statements]
+else
+[statements]
+end if
+```
+
+### if-else if-else-end if (aka if-else ladder)
+```
+if <condition1> then
+[statements]
+else if <condition2> then
+[statements]
+else
+[statements]
+end if
+```
+
+## Examples
 
 <table>
 
 <tr>
 <th>Problem</th>
 <th>Algorithm</th>
+</tr>
+
+<tr>
+<td>Check if a number is odd or even</td>
+<td>
+
+1. Let `a` be a number
+1. Read `a`
+1. if `d` % 2 is 0 then
+1. Display "Even"
+1. else
+1. Display "Odd"
+1. end if
+1. Stop
+
+</td>
 </tr>
 
 <tr>

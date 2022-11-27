@@ -1,4 +1,6 @@
-## Examples - Simple
+# Simple
+
+## Examples
 
 <table>
 
@@ -35,6 +37,20 @@
 </td>
 </tr>
 
+<tr>
+<td>Calculate area of a triangle using Hero's formula</td>
+<td>
+
+1. Let `a`, `b` and `c` be 3 numbers
+1. Read `a`, read `b` and read `c`
+1. Let `s = (a + b + c) / 2`
+1. Let `area = s * (s - a) * (s - b) * (s - c)` 
+1. Let `area = sqrt of area` 
+1. Display `area`
+1. Stop
+
+</td>
+</tr>
 
 <tr>
 <td>Convert temperature from Celsius to Fahrenheit</td>

@@ -9,12 +9,16 @@ It is a sequence of steps (statements), when followed leads to a solution of a g
 1. conditional operations
     1. if-end if
     1. if-else-end if
-    1. if-else if-else-end if
+    1. if-else if-else-end if (aka if-else ladder)
 1. loop/ repetitive statements
     1. while-end while
     1. for-end for
 1. output statements
 
+## Good Algorithm
+1. A good algorithm should produce the correct outputs for any set of legal inputs.
+1. A good algorithm should execute efficiently with the fewest number of steps as possible.
+1. A good algorithm should be designed in such a way that others will be able to understand it and modify it to specify solutions to additional problems.
 
 ## Example
 
